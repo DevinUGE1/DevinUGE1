@@ -1,8 +1,10 @@
 <img width=100% bottom=50px src="https://github.com/DevinUGE1/DevinUGE1/assets/94405892/fcec4b73-023d-4334-9cf1-7910311ac00b">
 <br> 
+<br>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=50&duration=4000&pause=1000&color=440524&center=true&vCenter=true&random=false&width=1000&lines=Hello%2C+my+name+is+Devin;I'm+36+years+old;I'm+a+Software+Developer;and;I'm+Data+Analyst;I'm+from+Perú;Welcome%3A)](https://git.io/typing-svg)
 <br>
+##
 <h2 align="center"">Sou estudante do último semestre de Análise e Desenvolvimento de Sistemas na UNIP e também sou estudante de Applied Technology em Brigham Young University.</h2>
 <h2 align="center">Atualmente sou estagiário em Desenvolvimento de Sistemas Web (full-stack) na EMPRO - Tegnologia e Informação (desde novembro, 2022).</h2>
 <div align="center">
@@ -12,6 +14,7 @@
 </div>
 
 ##
+<h2 align="center"> Main Skills: </h2>
 <div align="center">
   <img align="center" alt="lcs-HTML" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg"/>
   <img align="center" alt="lcs-JS" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
@@ -36,8 +39,6 @@
 
 <div align="center">
   
-<br>
-<br>
 <br>
 <br>
 
