@@ -2,17 +2,14 @@
 <br> 
 <br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=50&duration=4000&pause=1000&color=440524&center=true&vCenter=true&random=false&width=1000&lines=Hello%2C+my+name+is+Devin;I'm+36+years+old;I'm+a+Software+Developer;and;I'm+Data+Analyst;I'm+from+Perú;Welcome%3A)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=50&duration=4000&pause=1000&color=440524&center=true&vCenter=true&random=false&width=1000&lines=Hello%2C+my+name+is+Devin;I'm+38+years+old;I'm+a+Software+Developer;and;I'm+Data+Analyst;I'm+from+Perú;Welcome%3A)](https://git.io/typing-svg)
 <br>
 ##
 <h2 align="center"">Graduação: </h2>
-<br>
 <h2 align="center"">Graduado em Análise e Desenvolvimento de Sistemas - Universidade Paulista</h2>
 <h2 align="center">Software Development (Em andamento) - Brigham Young University</h2>
 <h2 align="center">Applied Technology (Em Andamento) - Brigham Young University</h2>
-<br>
 <h2 align="center"">Pós - Graduação: </h2>
-<br>
 <h2 align="center">Business Intelligence, Big Data e Analytics – Ciência de dados - Faculdade Líbano</h2>
 <h2 align="center">Administração de Dados - Faculdade Líbano</h2>
 <div align="center">
