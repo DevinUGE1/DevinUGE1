@@ -8,13 +8,13 @@
 <h2 align="center"">Graduação: </h2>
 <br>
 <h2 align="center"">Graduado em Análise e Desenvolvimento de Sistemas - Universidade Paulista</h2>
-<h2 align="center">)Software Development (Em andamento) - Brigham Young University</h2>
-<h2 align="center">)Applied Technology (Em Andamento) - Brigham Young University</h2>
+<h2 align="center">Software Development (Em andamento) - Brigham Young University</h2>
+<h2 align="center">Applied Technology (Em Andamento) - Brigham Young University</h2>
 <br>
 <h2 align="center"">Pós - Graduação: </h2>
 <br>
-<h2 align="center">)Business Intelligence, Big Data e Analytics – Ciência de dados - Faculdade Líbano</h2>
-<h2 align="center">)Administração de Dados - Faculdade Líbano</h2>
+<h2 align="center">Business Intelligence, Big Data e Analytics – Ciência de dados - Faculdade Líbano</h2>
+<h2 align="center">Administração de Dados - Faculdade Líbano</h2>
 <div align="center">
  <a align="center" href="https://github.com/devinuge1">
   <img heigth="200em" align="top" src="https://github-readme-stats.vercel.app/api/top-langs?username=devinuge1&layout=compact&theme=tokyonight&repo&langs_count=10"/>
